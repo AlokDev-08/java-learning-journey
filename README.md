@@ -25,17 +25,6 @@ just continuous improvement and daily effort.
 ---
 
 
-
-🚧 Building consistently...
-
-<!--END_SECTION:progress-->
-
-<p align="center">
-  <img src="https://progress-bar.dev/5/?title=Learning%20Progress&width=500&color=00F7FF" />
-</p>
-
----
-
 ## 🗂️ Structure
 
 ```text id="7q2qpr"
